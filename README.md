@@ -20,8 +20,8 @@ An enterprise-grade, AI-powered Resume Studio with instant PDF extraction, ATS o
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/<your-username>/forcecraver-resume-editor.git
-cd forcecraver-resume-editor
+git clone https://github.com/forcecraver-technologies/Forcecraver-resume-editor-portal.git
+cd Forcecraver-resume-editor-portal
 npm install
 ```
 
